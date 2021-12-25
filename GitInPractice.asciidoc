@@ -1,5 +1,6 @@
 # Title of my book 
 
 ## Chapter 1 - The Beginning
+Once upon a time, there was a wonderful dog named Scooter.
 
 ### Chapter 2 - The End!!
